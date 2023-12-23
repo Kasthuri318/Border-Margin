@@ -1,0 +1,12 @@
+div{
+    border: groove goldenrod 3px;
+    margin-top: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 19px;
+}
+
+caption{
+    padding-top: 25px;
+}
+
